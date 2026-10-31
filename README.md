@@ -1,24 +1,24 @@
-# HUST AIA Master's Courseware
+# 华中科技大学人工智能与自动化学院硕士研究生课件
 
-Master's course materials and assessment notes for the School of Artificial Intelligence and Automation, Huazhong University of Science and Technology (HUST).
+收录华中科技大学人工智能与自动化学院硕士研究生课程课件及考核说明，按课程分类整理。
 
-## Courses and assessment
+## 课程与考核方式
 
-| Course | Final assessment | Available materials |
+| 课程 | 考核方式 | 已收录资料 |
 | --- | --- | --- |
-| [Optimization Theory](optimization-theory/) | Semi-open-book exam; 2.5 hours; one A4 reference sheet with notes prepared on both sides | 10 courseware files covering chapters 1-10, including combined chapters 6-7 and separate parts 9a/9b |
-| [Modeling and Simulation](modeling-and-simulation/) | Major course project (final assignment) | Assessment notes |
-| [Modern Digital Image Processing](modern-digital-image-processing/) | Major course project (final assignment) | Assessment notes |
-| [Intelligent Computing](intelligent-computing/) | Major course project (final assignment) | Assessment notes |
+| [优化理论](%E4%BC%98%E5%8C%96%E7%90%86%E8%AE%BA/) | 半开卷考试；2.5 小时；可携带一张提前在正反两面写好笔记的 A4 纸 | 10 份课件，覆盖第 1–10 章（第 6–7 章合并，第 9 章分 a/b） |
+| [建模与仿真](%E5%BB%BA%E6%A8%A1%E4%B8%8E%E4%BB%BF%E7%9C%9F/) | 大作业 | 结课方式说明 |
+| [现代数字图像处理](%E7%8E%B0%E4%BB%A3%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/) | 大作业 | 结课方式说明 |
+| [智能计算](%E6%99%BA%E8%83%BD%E8%AE%A1%E7%AE%97/) | 大作业 | 结课方式说明 |
 
-## Optimization Theory exam
+## 优化理论考试说明
 
-- **Format:** Semi-open-book examination.
-- **Duration:** 2.5 hours (150 minutes).
-- **Reference sheet:** One A4 sheet, with notes prepared on both sides in advance, may be brought into the examination for reference.
+- **考试形式：** 半开卷考试。
+- **考试时长：** 2.5 小时（150 分钟）。
+- **可携带资料：** 一张 A4 纸，可提前在正反两面写好笔记，带入考场参考使用。
 
-Assessment details are recorded from information provided by the repository owner.
+考核信息根据仓库维护者提供的课程情况记录。
 
-## Organization
+## 目录说明
 
-Each course has its own directory. The Optimization Theory directory contains an indexed list of the available slides and PDFs. Course materials retain their original language; repository descriptions and filenames are in English.
+每门课程单独设置文件夹。优化理论文件夹提供课件索引，课件保留原有中英文内容；文件夹、课件文件名及说明使用中文。
